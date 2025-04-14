@@ -1,0 +1,24 @@
+
+body {
+  font-family: 'Microsoft JhengHei', sans-serif;
+  background: #e0f7fa;
+  text-align: center;
+  padding: 20px;
+}
+#game-container {
+  margin-top: 20px;
+}
+.bin {
+  display: inline-block;
+  width: 120px;
+  height: 160px;
+  background: #fff8e1;
+  border: 2px dashed #aaa;
+  margin: 10px;
+  line-height: 160px;
+  font-weight: bold;
+}
+.trash {
+  width: 80px;
+  cursor: grab;
+}
